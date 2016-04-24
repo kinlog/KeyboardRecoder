@@ -1,2 +1,2 @@
 # KeyboardRecoder
-Recode every click(on keyboard) of your computer.
+Recode all keypresses on your computer keyboard.
